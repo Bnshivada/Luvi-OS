@@ -8,5 +8,5 @@ jobs:
       - name: Mirroring
         uses: pixta-dev/repository-mirroring-action@v1
         with:
-          target_repo_url: git@github.com:kullanici_adin/yeni-repon.git
+          target_repo_url: git@github.com:bnshivada/luvi-os.git
           ssh_private_key: ${{ secrets.SSH_PRIVATE_KEY }}
