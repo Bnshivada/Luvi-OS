@@ -5,7 +5,7 @@
   <br>
   <b>Minimalist. Fast. Stable.</b>
   <br>
-  <i>Zorin OS inspired Windows 10 Modification for Gamers</i>
+  <i> Windows 10 Modification for Gamers</i>
 </p>
 
 ---
